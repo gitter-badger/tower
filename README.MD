@@ -1,5 +1,7 @@
 ## 框架
 
+[![Join the chat at https://gitter.im/syhily/tower](https://badges.gitter.im/syhily/tower.svg)](https://gitter.im/syhily/tower?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #### soa服务框架包图
 
 ![soa服务框架包图](doc/soafw-package.png)
